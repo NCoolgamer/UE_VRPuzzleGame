@@ -28,7 +28,9 @@
 
 ## Демо-видео
 
-TBA.
+[Видео на Youtube](https://youtu.be/3Q-oo8owyQI)
+
+[Зеркало на Google Drive](https://drive.google.com/drive/folders/1iL0qFE3IwTa3D608uvFYNc_3tXY8kRl0?usp=sharing)
 
 ## Скриншоты
 ![Главное меню](Previews/menu.png)
