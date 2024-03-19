@@ -27,8 +27,9 @@
 **Кнопка "Меню" на контроллере** - Меню
 
 ## Демо-видео
+Youtube:
 
-[Видео на Youtube](https://youtu.be/3Q-oo8owyQI)
+[![Видео на Youtube](https://img.youtube.com/vi/3Q-oo8owyQI/0.jpg)](https://youtu.be/3Q-oo8owyQI)
 
 [Зеркало на Google Drive](https://drive.google.com/drive/folders/1iL0qFE3IwTa3D608uvFYNc_3tXY8kRl0?usp=sharing)
 
