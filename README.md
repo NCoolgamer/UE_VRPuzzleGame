@@ -43,7 +43,7 @@
 
 ### Игра
 
-Для **запуска игры** необходимо скачать **[билд](https://github.com/NCoolgamer/UE_VRPuzzleGame/releases/)** и распаковать архив. Далее, запустить **VRPuzzleGame.exe**. 
+Для **запуска игры** необходимо скачать **[билд](https://github.com/NCoolgamer/UE_VRPuzzleGame/releases/)** и распаковать архив ([зеркало на Google Drive](https://drive.google.com/drive/folders/1KRGOs0bsbsuh9Qn7FTbAv5dyidzJ9Tf2)). Далее, запустить **VRPuzzleGame.exe**. 
 
 Игра тестировалась на очках виртуальной реальности Oculus Quest 2 и HTC Vive Cosmos на ПК с ОС Windows.
 
